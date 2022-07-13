@@ -6,7 +6,7 @@ Unmanned aerial vehicles (UAVs) have brought many practical benefits during the 
 ## Demo Links
 | Google Colab demo | Paper for SoMeT 2022: YOLOv4 + Seq-NMS | Thesis report: YOLOv4 + ByteTrack |
 |:-:|:-:|:-:|
-| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17I69Kp93WEXV5Pd_2u_IF1cSNecYJaxD?usp=sharing) | [SoMeT 2022 Paper](https://drive.google.com/file/d/13bhDvAtJDVBPk68fNC7PTleHgid3dQhC/view?usp=sharing) | [Thesis Report](https://drive.google.com/file/d/1M7NSgJki1gMKZyu47P7XEuGxHgkVq2BR/view?usp=sharing) |
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MMM16WoIqbYTGIh7NkHNt6FVdq9eY_Pn?usp=sharing) | [SoMeT 2022 Paper](https://drive.google.com/file/d/13bhDvAtJDVBPk68fNC7PTleHgid3dQhC/view?usp=sharing) | [Thesis Report](https://drive.google.com/file/d/1M7NSgJki1gMKZyu47P7XEuGxHgkVq2BR/view?usp=sharing) |
 
 ## Datasets
 This project used [the Drone vs. Bird Detection Challenge 2020 dataset](https://wosdetc20210.wordpress.com/drone-vs-bird-detection-challenge/) as the primary dataset. The Drone vs. Bird Challenge 2020 dataset includes 77 video sequences in total. From the 77 available videos, we randomly selected 13 videos as the test set. 
