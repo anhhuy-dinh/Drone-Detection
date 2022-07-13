@@ -16,7 +16,7 @@ In addition, we also use additional datasets from other sources such as [The Pur
 ## Performance
 ### Results on Drone vs. Bird Detection Challenge 2020 test set
 | Video Sequences | Static | Modified YOLOv4 | YOLOv4 + Seq-NMS | YOLOv4 + ByteTrack |
-|-|:-:|:-:|:-:|:-:|:-:|
+|-|:-:|:-:|:-:|:-:|
 | 00_09_30_to_00_10_09.mp4 | :heavy_check_mark: | 96.01 | 96.48 | **97.39** |
 | gopro_002.mp4 | :heavy_check_mark: | 96.41 | 97.18 | **97.51** |
 | gopro_008.mp4 | :heavy_check_mark: | 92.76 | 93.08 | **93.50** |
