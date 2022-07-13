@@ -32,6 +32,5 @@ In addition, we also use additional datasets from other sources such as [The Pur
 | two_parrot_disco_1.avi |  | 92.23 | **92.47** | 89.02 |
 | **Average** |  | 92.97 | **93.43** | 93.24 |
 
-<<<<<<< HEAD
 ### Visulization results on Drone vs. Bird Detection Challenge 2020 test set
 <img src="assets/gopro_002_1.gif"/> <img src="assets/GOPR5847_004.gif"/>
