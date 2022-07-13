@@ -33,4 +33,4 @@ In addition, we also use additional datasets from other sources such as [The Pur
 | **Average** |  | 92.97 | **93.43** | 93.24 |
 
 ### Visulization results on Drone vs. Bird Detection Challenge 2020 test set
-<img src="assets/gopro_002_1.gif"/> <img src="assets/GOPR5847_004.gif"/>
+<img src="assets/gopro_002_1.gif" width="500"/> <img src="assets/GOPR5847_004.gif" width="500"/>
