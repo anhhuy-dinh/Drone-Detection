@@ -34,8 +34,3 @@ In addition, we also use additional datasets from other sources such as [The Pur
 
 ### Visulization results on Drone vs. Bird Detection Challenge 2020 test set
 <img src="assets/gopro_002.gif"/>
-<!-- ### Visualization results on Drone vs. Bird Challenge 2020 Dataset
-<<<<<<< HEAD
-=======
-<img src="assets/00_09_30_to_00_10_09.gif" width="400"/> -->
->>>>>>> 51ca16d82917de22116f27e99585f7c2fb9a4692
