@@ -6,7 +6,7 @@ Unmanned aerial vehicles (UAVs) have brought many practical benefits during the 
 ## Demo Links
 | Google Colab demo | Paper for SoMeT 2022: YOLOv4 + Seq-NMS | Thesis report: YOLOv4 + ByteTrack |
 |:-:|:-:|:-:|
-| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17I69Kp93WEXV5Pd_2u_IF1cSNecYJaxD?usp=sharing) | [SoMet 2022 Paper](https://drive.google.com/file/d/13bhDvAtJDVBPk68fNC7PTleHgid3dQhC/view?usp=sharing) | [Thesis Report](https://drive.google.com/file/d/1M7NSgJki1gMKZyu47P7XEuGxHgkVq2BR/view?usp=sharing) |
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17I69Kp93WEXV5Pd_2u_IF1cSNecYJaxD?usp=sharing) | [SoMeT 2022 Paper](https://drive.google.com/file/d/13bhDvAtJDVBPk68fNC7PTleHgid3dQhC/view?usp=sharing) | [Thesis Report](https://drive.google.com/file/d/1M7NSgJki1gMKZyu47P7XEuGxHgkVq2BR/view?usp=sharing) |
 
 ## Datasets
 This project used [the Drone vs. Bird Detection Challenge 2020 dataset](https://wosdetc20210.wordpress.com/drone-vs-bird-detection-challenge/) as the primary dataset. The Drone vs. Bird Challenge 2020 dataset includes 77 video sequences in total. From the 77 available videos, we randomly selected 13 videos as the test set. 
@@ -16,7 +16,7 @@ In addition, we also use additional datasets from other sources such as [The Pur
 ## Performance
 ### Results on Drone vs. Bird Detection Challenge 2020 test set
 | Video Sequences | Static | Modified YOLOv4 | YOLOv4 + Seq-NMS | YOLOv4 + ByteTrack |
-|-|:-:|:-:|:-:|:-:|:-:|
+|-|:-:|:-:|:-:|:-:|
 | 00_09_30_to_00_10_09.mp4 | :heavy_check_mark: | 96.01 | 96.48 | **97.39** |
 | gopro_002.mp4 | :heavy_check_mark: | 96.41 | 97.18 | **97.51** |
 | gopro_008.mp4 | :heavy_check_mark: | 92.76 | 93.08 | **93.50** |
@@ -35,3 +35,7 @@ In addition, we also use additional datasets from other sources such as [The Pur
 ### Visulization results on Drone vs. Bird Detection Challenge 2020 test set
 <img src="assets/gopro_002.gif"/>
 <!-- ### Visualization results on Drone vs. Bird Challenge 2020 Dataset
+<<<<<<< HEAD
+=======
+<img src="assets/00_09_30_to_00_10_09.gif" width="400"/> -->
+>>>>>>> 51ca16d82917de22116f27e99585f7c2fb9a4692
